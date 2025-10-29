@@ -1,8 +1,8 @@
 # Machina Speculatrix articles on Substack and Medium
 
-Code and other files to support my articles on Substack and [Medium](https://medium.com/machina-speculatrix) (subscriptions required).
+Code and other files to support my articles on [Substack](https://mspeculatrix.substack.com) and [Medium](https://medium.com/machina-speculatrix) (subscriptions required).
 
-As most of my Machina Speculatrix-related work is now being documented on Substack (albeit with occasional pieces posted to Medium) this repo has replaced my previous Medium one.
+As most of my Machina Speculatrix-related work is now being documented on Substack (albeit with longer pieces also being posted to Medium) this repo has replaced my previous Medium one.
 
 Projects include:
 
