@@ -1,8 +1,6 @@
 # Machina Speculatrix on Medium and Substack
 
-**NB:** Most of my Machina Speculatrix-related activity now takes place on Substack. I have [a new repo for that](https://github.com/mspeculatrix/Articles), which is now the canonical one.
-
-However, I will leave this repo intact and may add to it from time to time.
+**NB:** Most of my Machina Speculatrix-related activity now takes place on Substack.
 
 This is a largely random collection of files to accompany articles posted to the [Machina Speculatrix publication](https://medium.com/machina-speculatrix) on Medium. (You'll need a Medium sub to read the articles.)
 
