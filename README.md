@@ -1,8 +1,6 @@
-# Machina Speculatrix on Medium and Substack
+# Machina Speculatrix Articles
 
-**NB:** Most of my Machina Speculatrix-related activity now takes place on Substack.
-
-This is a largely random collection of files to accompany articles posted to the [Machina Speculatrix publication](https://medium.com/machina-speculatrix) on Medium. (You'll need a Medium sub to read the articles.)
+This is a largely random collection of files to accompany articles posted to the Machina Speculatrix publication on [Medium](https://medium.com/machina-speculatrix) and [Substack](https://mspeculatrix.substack.com/) (both subscription-based).
 
 - Arduino - various Arduino sketches.
   - SN76489_Daisy: Playing around with the [SN76489 sound chip](https://medium.com/machina-speculatrix/fun-with-chips-sn76489-sound-generator-ic-879f836f2eda).
