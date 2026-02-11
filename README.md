@@ -1,4 +1,4 @@
-# Machina Speculatrix on Medium
+# Machina Speculatrix on Medium and Substack
 
 **NB:** Most of my Machina Speculatrix-related activity now takes place on Substack. I have [a new repo for that](https://github.com/mspeculatrix/Articles), which is now the canonical one.
 
