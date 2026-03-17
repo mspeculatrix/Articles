@@ -13,5 +13,7 @@ I also have separate repos for specific projects:
 
 - [Zolatron 6502 homebrew computer](https://github.com/mspeculatrix/Zolatron64)
 - [AVR microcontroller-related articles](https://github.com/mspeculatrix/AVR_8bit_Basics)
+- [Hestia](https://github.com/mspeculatrix/Hestia) - a home surveillance robot.
+- [ATmega4809](https://github.com/mspeculatrix/ATmega4809-A-breakout) breakout board.
 - [FlashROM](https://github.com/mspeculatrix/FlashROM) - a dev board for experimenting with writing ROM code for the Zolatron to flash memory. Includes schematics, Gerbers, C++ code for the ATMEGA328PB and Python code for a PC.
 - [Infrared IoT hub project](https://github.com/mspeculatrix/IR_IoT_hub) - ESP32- and ESP8266-based networked IR devices.

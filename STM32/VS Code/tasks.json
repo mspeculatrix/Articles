@@ -7,7 +7,7 @@
 			"command": "/Applications/STMicroelectronics/STM32Cube/STM32CubeProgrammer/STM32CubeProgrammer.app/Contents/MacOs/STM32CubeProgrammer",
 			"args": [
 				"-c", "port=SWD",
-				"-w", "${workspaceFolder/build/Debug/projectname.elf",
+				"-w", "${workspaceFolder}/build/Debug/projectname.elf",
 				"-v"
 			],
 			"group": {
